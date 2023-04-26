@@ -9,6 +9,8 @@ Love to learn programming lang, focused on Flutter!
 Closed Source App:
 
 - [ICD 10-11 App](https://play.google.com/store/apps/details?id=com.mrcrbrth.icd_cm_pcs)
+
+- [ICD 11 Offline](https://play.google.com/store/apps/details?id=com.mrcrbrth.icd11_offline)
   
 - [Doctor Companion App](https://play.google.com/store/apps/details?id=com.mrcrbrth.teman_dokter) (in Indonesian language)
 
