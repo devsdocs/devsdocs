@@ -14,4 +14,6 @@ Closed Source App:
   
 - [Doctor Companion App](https://play.google.com/store/apps/details?id=com.mrcrbrth.teman_dokter) (in Indonesian language)
 
+- [Indonesian Medical Doctor Licensing Exam QnA Training App]([https://play.google.com/store/apps/details?id=com.mrcrbrth.teman_dokter](https://play.google.com/store/apps/details?id=com.mrcrbrth.latihan_ukmppd)) (in Indonesian language)
+
 [Dev Page](https://mrcrbrth.is-a.dev)
