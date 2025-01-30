@@ -6,4 +6,4 @@
 
 Love to learn programming lang, focused on Flutter!
 
-[Dev Page](https://mrcrbrth.is-a.dev)
+[Dev Page](https://devsdocs.github.io)
